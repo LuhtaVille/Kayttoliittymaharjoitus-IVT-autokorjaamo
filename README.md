@@ -1,7 +1,7 @@
 # Käyttöliittymäharjoitus-IVT-autokorjaamo
 Kyseessä on 1. vuosikurssin Ihminen ja vuorovaikutteinen teknologia -kurssin harjoitustyö. Fokus työssä oli käyttäjäystävällisen käyttöliittymän suunnittelussa.
 
-## Suunnitteluprototyypin suunnitteluvalintojen perustelut
+## Prototyypin suunnitteluvalintojen perustelut
 
 Tätä suunnitteluprototyyppiä varten loin käyttöliittymän, joka voidaan liittää jo olemassa oleville nettisivuille. Käyttöliittymä avautuu uuteen ikkunaan, kun käyttäjä klikkaa sivulla olevaa ”Varaa huolto”-nappulaa.
 
