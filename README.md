@@ -1,7 +1,7 @@
-#Kayttoliittymaharjoitus-IVT-autokorjaamo
+# Käyttöliittymäharjoitus-IVT-autokorjaamo
 Kyseessä on 1. vuosikurssin Ihminen ja vuorovaikutteinen teknologia -kurssin harjoitustyö. Fokus työssä oli käyttäjäystävällisen käyttöliittymän suunnittelussa.
 
-##Autokorjaamo IVT:n sivujen suunnitteluprototyypin suunnitteluvalintojen perustelut
+## Suunnitteluprototyypin suunnitteluvalintojen perustelut
 
 Tätä suunnitteluprototyyppiä varten loin käyttöliittymän, joka voidaan liittää jo olemassa oleville nettisivuille. Käyttöliittymä avautuu uuteen ikkunaan, kun käyttäjä klikkaa sivulla olevaa ”Varaa huolto”-nappulaa.
 
@@ -16,5 +16,3 @@ Käyttöliittymässä hyödynnetyt kytkennät ovat luonnollisia. Punaisesta rast
 Palautteen käyttäjä saa välittömästi. Jos tarvittavat valinnat on tehty, päästään siirtymään seuraavalle sivulle. Virheen sattuessa punainen teksti ilmaantuu sen objektin viereen, jossa virhe havaitaan. Nappuloiden painaminen toistaa tietokoneella tutun ”klik”-äänen ja mobiililaitteella äänen lisäksi laite tärähtää. Näin tulee selväksi, että nappulan painaminen on rekisteröitynyt, vaikka seuraavan sivun lataamiseen menisi hetki. Varauspyynnön onnistuneesta lähetyksestä ilmoitetaan käyttäjälle, kun ollaan palattu huoltoliikkeen sivulle, josta alun perin painettiin ”Varaa huolto”-nappulaa.
 
 Hahmolait on suunnittelussa otettu huomioon. Ohjetekstit on sijoitettu aina sen objektin viereen, jota tuo ohje koskee. Sivut on tehty luettavaksi ylhäältä alaspäin, jossa ylhäällä on aina otsikko, mitä tällä sivulla käsitellään. Otsikon alla seuraa heti lyhyt ohje, kuinka sivun objektien kanssa tulee toimia. Sitten tehdään valinnat, täytetään tarvittavat tekstikentät ja sivun alareunasta päästään jatkamaan seuraavaan vaiheeseen. Samoja asioita tekevät nappulat, valintaikkunat ja tekstikentät on pidetty samannäköisinä koko käyttöliittymän läpi sekä ne on sijoiteltu samoille joka sivulla samoille paikoille.
-
--Ville Kyytinen-
